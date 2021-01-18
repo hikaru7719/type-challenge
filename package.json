@@ -1,0 +1,11 @@
+{
+  "name": "type-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hikaru7719/type-challenge.git",
+  "author": "Hikaru Miyahara",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
